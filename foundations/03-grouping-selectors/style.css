@@ -1,0 +1,17 @@
+
+.one{
+    background-color:black;
+    color:white;
+}
+.two{
+    background-color:yellow;
+    color:black;
+}
+body{
+    text-align:center;
+}
+.one,.two{
+   font-size:48px;
+   font-family:serif;
+
+}
